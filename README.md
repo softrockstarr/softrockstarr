@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Christine</h1>
 <h3 align="center">A motivated full stack web developer from Montreal, Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=softrockstarr&label=Profile%20views&color=0e75b6&style=flat" alt="softrockstarr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=softrockstarr&label=Profile%20views&color=0e75b6&style=flat" alt="softrockstarr" />
+<img src="https://www.codewars.com/users/softrockstarr/badges/micro" alt="CodeWars" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 

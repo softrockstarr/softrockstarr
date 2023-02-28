@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Christine</h1>
 <h3 align="center">A motivated full stack web developer from Montreal, Canada</h3>
 
